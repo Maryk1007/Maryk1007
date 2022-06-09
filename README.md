@@ -9,4 +9,5 @@
 
 ### Мой стек:
 ![html css](https://user-images.githubusercontent.com/94696253/172831310-009e9c0b-80a8-44c3-be34-82074240d66b.png)
-![js](https://user-images.githubusercontent.com/94696253/172832067-e697a9e6-83e6-4b00-a3e5-2d0f9eb3a5bc.png)
+![js-2](https://user-images.githubusercontent.com/94696253/172832358-d03848cd-167e-4ae4-80c7-e2b46823e3a8.png)
+
