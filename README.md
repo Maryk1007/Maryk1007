@@ -8,6 +8,5 @@
 🌱 Уверена, что со временем научусь писать чистый и упорядоченный код.
 
 ### Мой стек:
-https://yandex.ru/images/search?source=related-query-serp&text=html5+logo&pos=19&rpt=simage&nomisspell=1&img_url=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F74%2F740d9875efb9b1e9a51465c6bfdc7dd1.png&from=tabbar&lr=2![image](https://user-images.githubusercontent.com/94696253/172825761-d113d21a-5964-4f74-9941-997872b4a6d8.png)
 
 
