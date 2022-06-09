@@ -9,4 +9,5 @@
 
 ### Мой стек:
 
+![png-clipart-responsive-web-design-boilerplate-text-html-template-boilerplate-code-world-wide-web-template-blue](https://user-images.githubusercontent.com/94696253/172827477-e87aed73-8d38-40ef-b662-6b477fd5d48a.png)
 
