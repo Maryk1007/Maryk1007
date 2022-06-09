@@ -8,6 +8,6 @@
 🌱 Уверена, что со временем научусь писать чистый и упорядоченный код  
 
 ### Мой стек:
+![frontend](https://user-images.githubusercontent.com/94696253/172827977-06a66afc-e7a0-4cc8-b5f4-9e1c8f38214e.png)
 
-![png-clipart-responsive-web-design-boilerplate-text-html-template-boilerplate-code-world-wide-web-template-blue](https://user-images.githubusercontent.com/94696253/172827477-e87aed73-8d38-40ef-b662-6b477fd5d48a.png)
 
