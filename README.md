@@ -15,6 +15,12 @@
 
 ---
 
+### :fire: Моя статистика:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryk1007&hide=contribs,prs)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryk1007)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### :hammer_and_wrench: Мой стек:
 <img align="left" alt="HTML5_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"   />
 <img align="left" alt="CSS3_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
