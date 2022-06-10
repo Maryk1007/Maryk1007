@@ -28,7 +28,7 @@
   <img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
 </div>  
 
----
+---  
 
 ### :fire: Моя статистика:
 
