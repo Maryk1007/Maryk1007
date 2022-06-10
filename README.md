@@ -30,6 +30,6 @@
 
 ---
 
-### Моя статистика:
+### :fire: Моя статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryk1007&hide=contribs,prs)
