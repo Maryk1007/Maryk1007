@@ -25,7 +25,7 @@
 <img align="left" alt="Webpack_logo" width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" />
 <img align="left" alt="Figma_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="git_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />  
 ### :fire: Моя статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryk1007&hide=contribs,prs)  
