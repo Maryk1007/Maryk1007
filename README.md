@@ -27,11 +27,3 @@
   <img align="left" alt="git_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />&nbsp;
   <img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />&nbsp;
 </p>  
-
----  
-
-### :fire: Моя статистика:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryk1007&hide=contribs,prs)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryk1007)](https://github.com/anuraghazra/github-readme-stats)  
