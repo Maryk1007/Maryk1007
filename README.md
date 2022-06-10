@@ -17,15 +17,17 @@
 
 ### :hammer_and_wrench: Мой стек:
 
-<img align="left" alt="HTML5_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="VSCode_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Webpack_logo" width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" />
-<img align="left" alt="Figma_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="left" alt="git_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
-<img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+<p>
+  <img align="left" alt="HTML5_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+  <img align="left" alt="CSS3_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
+  <img align="left" alt="JavaScript_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+  <img align="left" alt="VSCode_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="left" alt="Webpack_logo" width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" />
+  <img align="left" alt="Figma_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align="left" alt="git_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" />
+  <img align="left" alt="github_logo" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" />
+</p>
 
 ---
 
