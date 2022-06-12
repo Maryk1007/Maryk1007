@@ -14,9 +14,11 @@
 - 🌱 Уверена, что со временем научусь писать чистый и упорядоченный код  
 
 
-### <img align="center" alt="tg_logo" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/4542/4542053.png" /> Связаться со мной:    
+### <img align="center" alt="tg_logo" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/4542/4542053.png" /> Связаться со мной: 
 
-- <img align="center" alt="tg_logo" width="20" height="20" src="https://www.svgrepo.com/show/354443/telegram.svg" /> @Marusenachek  
+- <img align="center" alt="tg_logo" width="18" height="18" src="https://www.svgrepo.com/show/56023/email.svg" /> mariia.lapshova@gmail.com
+
+- <img align="center" alt="tg_logo" width="18" height="18" src="https://www.svgrepo.com/show/354443/telegram.svg" /> [@Marusenachek](https://t.me/Marusenachek)  
 
 ---
 
