@@ -14,7 +14,7 @@
 - 🌱 Уверена, что со временем научусь писать чистый и упорядоченный код  
 
 <p>
-  <img src="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17#tg-icon" />
+  <img src="https://www.svgrepo.com/show/354443/telegram.svg" />
 </p>  
 
 ---
