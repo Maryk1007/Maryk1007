@@ -14,7 +14,7 @@
 - 🌱 Уверена, что со временем научусь писать чистый и упорядоченный код  
 
 <p>
-  <img src="https://www.svgrepo.com/show/354443/telegram.svg" />
+  <img align="left" alt="tg_logo" width="30" height="30" src="https://www.svgrepo.com/show/354443/telegram.svg" />
 </p>  
 
 ---
