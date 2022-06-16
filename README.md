@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
 
-### <p align="center">Всем привет! Меня зовут Мария и я начинающий front-end developer 👋</p>  
+### <p align="center">Всем привет! Меня зовут Мария и я начинающий frontend developer 👋</p>  
 
 ---
 
